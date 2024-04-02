@@ -1,3 +1,13 @@
-# <a href="https://leo-commerce.herokuapp.com/"> Live Demo</a>
+Pip install -r requirements.txt
 
-# <a href="https://github.com/LeoZorzoli/CS50-Web-Projects-List"> Other CS50 projects</a>
+python manage.py makemigrations
+
+python manage.py migrate
+
+python manage.py runserver
+
+
+
+### <a href="https://leo-commerce.herokuapp.com/"> Live Demo</a>
+
+
